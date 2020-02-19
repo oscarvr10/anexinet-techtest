@@ -1,0 +1,67 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test1", "Test1", "{F13C470A-D7E1-41E6-B744-F229927FE4C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test2", "Test2", "{D1CB7357-ADF0-422F-B4CF-8DE3314DB91D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test3", "Test3", "{A20380BF-4EBA-441A-8A1C-4071CDBFF523}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test4", "Test4", "{7BC616EC-B207-4163-AACA-8256504586BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test5", "Test5", "{A5B07967-3ADD-4DFF-8F50-ACFE29261B29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test6", "Test6", "{597AB521-9970-4C87-9F35-648C5160E9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding", "Test1\Adding.csproj", "{552B316D-1C75-48DA-BD3F-9DB0055E3966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{89D55285-DE47-4E65-B19D-95E69CECC7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{B55186C6-412A-4FA3-B288-7F00D681B288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{5620C198-4532-4CB2-BF3B-497A0D6F68E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{9FA34155-7C65-4901-A5D1-E91E19764241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles", "Circles\Circles.csproj", "{A1888561-2DCC-42B5-B6F7-7A4D6858242F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552B316D-1C75-48DA-BD3F-9DB0055E3966}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{552B316D-1C75-48DA-BD3F-9DB0055E3966}.Debug|anycpu.Build.0 = Debug|anycpu
+		{552B316D-1C75-48DA-BD3F-9DB0055E3966}.Release|anycpu.ActiveCfg = Release|anycpu
+		{552B316D-1C75-48DA-BD3F-9DB0055E3966}.Release|anycpu.Build.0 = Release|anycpu
+		{89D55285-DE47-4E65-B19D-95E69CECC7C1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{89D55285-DE47-4E65-B19D-95E69CECC7C1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{89D55285-DE47-4E65-B19D-95E69CECC7C1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{89D55285-DE47-4E65-B19D-95E69CECC7C1}.Release|anycpu.Build.0 = Release|anycpu
+		{B55186C6-412A-4FA3-B288-7F00D681B288}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B55186C6-412A-4FA3-B288-7F00D681B288}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B55186C6-412A-4FA3-B288-7F00D681B288}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B55186C6-412A-4FA3-B288-7F00D681B288}.Release|anycpu.Build.0 = Release|anycpu
+		{5620C198-4532-4CB2-BF3B-497A0D6F68E3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5620C198-4532-4CB2-BF3B-497A0D6F68E3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5620C198-4532-4CB2-BF3B-497A0D6F68E3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5620C198-4532-4CB2-BF3B-497A0D6F68E3}.Release|anycpu.Build.0 = Release|anycpu
+		{9FA34155-7C65-4901-A5D1-E91E19764241}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9FA34155-7C65-4901-A5D1-E91E19764241}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9FA34155-7C65-4901-A5D1-E91E19764241}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9FA34155-7C65-4901-A5D1-E91E19764241}.Release|anycpu.Build.0 = Release|anycpu
+		{A1888561-2DCC-42B5-B6F7-7A4D6858242F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A1888561-2DCC-42B5-B6F7-7A4D6858242F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A1888561-2DCC-42B5-B6F7-7A4D6858242F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A1888561-2DCC-42B5-B6F7-7A4D6858242F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{552B316D-1C75-48DA-BD3F-9DB0055E3966} = {F13C470A-D7E1-41E6-B744-F229927FE4C8}
+		{89D55285-DE47-4E65-B19D-95E69CECC7C1} = {D1CB7357-ADF0-422F-B4CF-8DE3314DB91D}
+		{B55186C6-412A-4FA3-B288-7F00D681B288} = {A20380BF-4EBA-441A-8A1C-4071CDBFF523}
+		{5620C198-4532-4CB2-BF3B-497A0D6F68E3} = {7BC616EC-B207-4163-AACA-8256504586BD}
+		{9FA34155-7C65-4901-A5D1-E91E19764241} = {A5B07967-3ADD-4DFF-8F50-ACFE29261B29}
+		{A1888561-2DCC-42B5-B6F7-7A4D6858242F} = {597AB521-9970-4C87-9F35-648C5160E9B5}
+	EndGlobalSection
+EndGlobal
